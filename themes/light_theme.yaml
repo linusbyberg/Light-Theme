@@ -2,6 +2,7 @@ Light Theme:
   # Header:
   app-header-background-color: rgb(242, 244, 245)
   app-header-text-color: rgb(34, 37, 41)
+  app-header-active-text-color: rgb(1, 120, 226)
   # Main Interface Colors
   primary-color: rgb(1, 120, 226)
   light-primary-color: var(--primary-color)
