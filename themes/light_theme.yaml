@@ -1,19 +1,19 @@
 Light Theme:
   # Header:
-  app-header-background-color: rgb(248, 248, 248)
+  app-header-background-color: rgb(242, 244, 245)
   app-header-text-color: rgb(95, 99, 104)
   # Main Interface Colors
-  primary-color: rgb(255, 36, 58)
+  primary-color: rgb(1, 120, 226)
   light-primary-color: var(--primary-color)
   primary-background-color: rgb(248, 248, 248)
   secondary-background-color: rgb(230, 230, 230)
   divider-color: var(--primary-background-color)
   accent-color: rgb(255, 36, 58)
   # Text
-  primary-text-color: rgb(32, 33, 36)
-  secondary-text-color: rgb(95, 99, 104)
+  primary-text-color: rgb(34, 37, 41)
+  secondary-text-color: rgb(193, 200, 207)
   text-primary-color: rgb(255, 255, 255)
-  disabled-text-color: rgba(95, 99, 104, 0.4)
+  disabled-text-color: rgba(193, 200, 207, 0.5)
   # Sidebar Menu
   sidebar-icon-color: rgb(95, 99, 104)
   sidebar-text-color: var(--sidebar-icon-color)
@@ -26,7 +26,7 @@ Light Theme:
   paper-item-icon-active-color: rgb(255, 36, 58)
   # States and Badges
   state-icon-color: rgb(26, 115, 232)
-  state-icon-active-color: rgb(95, 99, 104)
+  state-icon-active-color: var(--primary-color)
   state-icon-unavailable-color: var(--disabled-text-color)
   # Sliders
   paper-slider-knob-color: rgb(26, 115, 232)
@@ -44,7 +44,7 @@ Light Theme:
   label-badge-gray: rgb(95, 98, 103)
   # Cards
   card-background-color: rgb(255, 255, 255)
-  ha-card-border-radius: "10px"
+  ha-card-border-radius: "14px"
   ha-card-box-shadow: 0px 0px 1px 0px rgb(230, 230, 230)
   paper-dialog-background-color: var(--card-background-color)
   paper-listbox-background-color: var(--card-background-color)
