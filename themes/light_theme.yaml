@@ -23,7 +23,7 @@ Light Theme:
   sidebar-selected-text-color: var(--sidebar-selected-icon-color)
   # Buttons
   paper-item-icon-color: rgb(95, 99, 104)
-  paper-item-icon-active-color: rgb(255, 36, 58)
+  paper-item-icon-active-color: rgb(1, 120, 226)
   # States and Badges
   state-icon-color: rgb(26, 115, 232)
   state-icon-active-color: var(--primary-color)
